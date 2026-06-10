@@ -13,4 +13,4 @@ layout:docs
 <iframe src="/wechat/index.html" width="100%" height="600" frameborder="0"></iframe>
 
 # 交流群
-建设中~
+建设中
