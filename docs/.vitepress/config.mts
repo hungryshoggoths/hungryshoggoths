@@ -5,7 +5,7 @@ export default defineConfig({
     lang: 'zh-CN',
     title: "My Awesome Project",
     description: "A VitePress Site",
-    base: '/hungryshoggoths/'
+    base: '/hungryshoggoths/',
     themeConfig: {
         logo: '/logo.jpg',
         // siteTitle: false, //标题隐藏
