@@ -3,8 +3,8 @@ import {defineConfig} from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     lang: 'zh-CN',
-    title: "My Awesome Project",
-    description: "A VitePress Site",
+    title: "Hungry Shoggoths",
+    description: "js逆向学习笔记",
     base: '/hungryshoggoths/',
     themeConfig: {
         logo: '/logo.jpg',
