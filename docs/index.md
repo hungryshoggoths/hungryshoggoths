@@ -20,7 +20,7 @@ hero:
       text: JS逆向实战
       link: /js_reverse_examples
     - theme: alt
-      text: JS逆向实战
+      text: 博客搭建
       link: /build_blog_notes
 
 features:

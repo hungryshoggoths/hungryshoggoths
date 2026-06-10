@@ -54,6 +54,7 @@ export default defineConfig({
                 {
                     text: 'articles',
                     items: [
+                        {text: '博客建站资源', link: '/build_blog_notes/博客建站资源'},
                     ],
                 },
             ],
